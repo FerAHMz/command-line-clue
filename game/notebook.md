@@ -3,7 +3,7 @@
 ## Suspects
 - [x] The Florist
 - [ ] The Artist
-- [ ] The Police Officer
+- [x] The Police Officer
 
 ## Weapons
 - [ ] Wooden Box
