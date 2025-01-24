@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Wooden Box
 - [ ] Leather Gloves
-- [ ] Brass Bell
+- [x] Brass Bell
 
 ## Notes
 *Use this space to record your findings and deductions...*
