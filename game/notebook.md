@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Wooden Box
-- [ ] Leather Gloves
+- [x] Leather Gloves
 - [x] Brass Bell
 
 ## Notes
